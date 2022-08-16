@@ -22,6 +22,6 @@ texture_scale = 0.1
 color = Color( 0.992157, 0.447059, 0.305882, 1 )
 energy = 0.75
 shadow_enabled = true
-shadow_gradient_length = 2.0
+shadow_gradient_length = 4.0
 
 [connection signal="body_entered" from="." to="." method="_on_BlastPoint_body_entered"]
